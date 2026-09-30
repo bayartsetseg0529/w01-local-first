@@ -1,0 +1,3 @@
+1. Git command-уудыг терминалаас ашиглаж сурлаа.
+2. Local болон remote repository холбож push хийв.
+3. SSH болон HTTPS хаягийн ялгааг ойлголоо.
